@@ -5,3 +5,5 @@
 <h1 align="center">Animated Template</h1>
 
 <p align="center">An example landing page with Tailwind and AOS libraries.</p>
+
+![Farmers Market Finder Demo](assets/img/screen-recording.gif)
