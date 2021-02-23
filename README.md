@@ -6,4 +6,4 @@
 
 <p align="center">An example landing page with Tailwind Starter Kit and AOS libraries.</p>
 
-![Farmers Market Finder Demo](assets/img/screen-recording.gif)
+![Farmers Market Finder Demo](assets/img/screen.gif)
