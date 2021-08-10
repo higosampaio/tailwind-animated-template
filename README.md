@@ -4,6 +4,6 @@
   <img alt="JavaScript Badge" src="https://img.shields.io/badge/-javascript-important?style=for-the-badge&color=F7DF1E&logo=javascript&logoColor=black" />
 </p>
 
-<h1 align="center">Animated Template</h1>
+<h3 align="center">Animated Template</h3>
 
 <p align="center">An example landing page with Tailwind Starter Kit and AOS libraries.</p>
